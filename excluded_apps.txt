@@ -1,0 +1,10 @@
+Google.Chrome
+Microsoft.Edge
+Microsoft.EdgeWebView2Runtime
+Microsoft.Office
+Microsoft.OneDrive
+Microsoft.Teams
+Mozilla.Firefox
+Mozilla.Firefox.DeveloperEdition
+Mozilla.Firefox.ESR
+VMware.WorkstationPro

@@ -7,4 +7,5 @@ Microsoft.Teams
 Mozilla.Firefox
 Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
+Teamviewer.Teamviewer
 VMware.WorkstationPro
